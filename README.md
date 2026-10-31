@@ -1,8 +1,8 @@
 ### Logan Smith
 
-Backend engineer, 10+ years in wireless telecom: provisioning, mediation, and the event-driven systems (Java, Kafka, Spring Boot) that keep orders, network changes and billing data in agreement. Madison, WI.
+Backend engineer, 10+ years in wireless telecom: provisioning, mediation, and the event-driven systems (Java, Kafka, Spring Boot) that keep orders, network changes and billing data in agreement.
 
-I design systems, own them in production, and lately direct AI coding agents and review what they produce. These repos show that second part, labeled honestly.
+I design systems, own them in production, and lately direct AI coding agents and review what they produce. These repos show that second part as I try to get more hand-written work publicized.
 
 | Repo | What it shows | Who wrote the code |
 |---|---|---|
